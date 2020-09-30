@@ -23,7 +23,7 @@ class EducationCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return CustomContainer(
       child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
+        crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           // Text(
           //   'Education',
